@@ -123,8 +123,8 @@ nav a {
   <!-- Gallery Section with Images -->
   <section id="gallery">
     <h2>Physio in Action</h2>
-    <img src="physio-action1.jpg" alt="Therapy Session">
-    <img src="physio-action2.jpg" alt="Equipment Use">
+    <img src="physio_action1.jpg" alt="Therapy Session">
+    <img src="physio_action2.jpg" alt="Equipment Use">
   </section>
 </body>
 </html>
